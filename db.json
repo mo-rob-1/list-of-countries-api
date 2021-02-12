@@ -129,6 +129,16 @@
             "cities": ["Washington", "Los Angeles", "Chicago", "Miami", "Philadelphia", "Houston"],
             "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-United-States-of-America.png",
             "description": "The USA is a significant leader in the fields of agriculture, education, energy, health care, high-tech, service industries, space exploration, and manufacturing."
+        },
+        {
+            "id": 13,
+            "country": "Zimbabwe",
+            "capital": "Harare",
+            "continent": "Africa",
+            "population": "14,645,468",
+            "cities": ["Harare", "Bulawayo", "Chitungwiza"],
+            "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Zimbabwe.png",
+            "description": "Zimbabwe is a southern African landlocked nation. It is located in the Southern and Eastern Hemisphere regions of the world."
         }
     ]
 }
