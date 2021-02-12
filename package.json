@@ -1,0 +1,23 @@
+{
+  "name": "list-of-countries-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mo-rob-1/list-of-countries-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mo-rob-1/list-of-countries-api/issues"
+  },
+  "homepage": "https://github.com/mo-rob-1/list-of-countries-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
