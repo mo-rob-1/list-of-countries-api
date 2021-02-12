@@ -1,0 +1,135 @@
+{
+    "countries": [
+        {
+            "id": 0,
+            "country": "Australia",
+            "capital": "Canberra",
+            "continent": "Oceania",
+            "population": "25,499,884",
+            "cities": ["Canberra", "Melbourne", "Sydney", "Brisbane", "Adelaide", "Perth"],
+            "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Australia.png",
+            "description": "Australia is the largest island and the smallest continent."
+        },
+        {
+            "id": 1,
+            "country": "Argentina",
+            "capital": "Buenos Aires",
+            "continent": "South America",
+            "population": "43,886,748",
+            "cities": ["Buenos Aires", "Córdoba", "Rosario", "Mendoza", "San Miguel de Tucumán", "La Plata"],
+            "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Argentina.png",
+            "description": "Argentina is the 8th largest country in the world and the 2nd largest country in South America."
+        },
+        {
+            "id": 2,
+            "country": "Bangladesh",
+            "capital": "Dhaka",
+            "continent": "Asia",
+            "population": "156,186,882",
+            "cities": ["Dhaka", "Chittagong", "Sylhet", "Bogra", "Comilla", "Khulna"],
+            "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Bangladesh.png",
+            "description": "Bangladesh is a riverine South Asian country. It is situated both in the Northern and Eastern hemispheres of the Earth."
+        },
+        {
+            "id": 3,
+            "country": "Brazil",
+            "capital": "Brasilia",
+            "continent": "South America",
+            "population": "205,823,665",
+            "cities": ["Brasilia", "Rio de Janeiro", "São Paulo", "Belo Horizonte", "Pôrto Alegre", "Recife"],
+            "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Brazil.png",
+            "description": "Covering an area of 8.5 million sq.km, Brazil is the world's 5th largest country."
+        },
+        {
+            "id": 4,
+            "country": "Canada",
+            "capital": "Ottawa",
+            "continent": "North America",
+            "population": "37,589,262",
+            "cities": ["Ottawa", "Toronto", "Montréal", "Vancouver", "Calgary", "Edmonton"],
+            "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Canada.png",
+            "description": "Canada is the largest country in North America."
+        },
+        {
+            "id": 5,
+            "country": "Denmark",
+            "capital": "Copenhagen",
+            "continent": "Europe",
+            "population": "5,818,553",
+            "cities": ["Copenhagen", "Århus", "Odense", "Aalborg", "Frederiksberg", "Esbjerg"],
+            "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Denmark.png",
+            "description": "Denmark is a country located in north central Europe and is the southernmost of the Scandinavian countries."
+        },
+        {
+            "id": 6,
+            "country": "Egypt",
+            "capital": "Cairo",
+            "continent": "Africa",
+            "population": "5,818,553",
+            "cities": ["Cairo", "Alexandria", "Bur Sa'id", "As-Suways", "Al-Mansurah", "Tanta"],
+            "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Egypt.png",
+            "description": "Egypt is largely covered by desert with the Nile River running south to north through the middle of the eastern half of the country to drain into the Mediterranean Sea."
+        },
+        {
+            "id": 7,
+            "country": "France",
+            "capital": "Paris",
+            "continent": "Europe",
+            "population": "67,059,887",
+            "cities": ["Paris", "Lyon", "Marseille", "Lille", "Toulouse", "Bordeaux"],
+            "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-France.png",
+            "description": "Denmark is a country located in north central Europe and is the southernmost of the Scandinavian countries."
+        },
+        {
+            "id": 8,
+            "country": "Germany",
+            "capital": "Berlin",
+            "continent": "Europe",
+            "population": "67,059,887",
+            "cities": ["Berlin", "Hamburg", "Munich", "Duesseldorf", "Frankfurt", "Stuttgart"],
+            "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Germany.png",
+            "description": "Germany is located in central Europe. It is positioned both in the Northern and Eastern hemispheres of the Earth."
+        },
+        {
+            "id": 9,
+            "country": "Ghana",
+            "capital": "Accra",
+            "continent": "Africa",
+            "population": "30,417,856",
+            "cities": ["Accra", "Kumasi", "Sekondi Takoradi", "Tamale"],
+            "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Ghana.png",
+            "description": "Ghana is a West African country with a coastline on the Gulf of Guinea and occupies a total area of 239,567 sq. km."
+        },
+        {
+            "id": 10,
+            "country": "Japan",
+            "capital": "Tokyo",
+            "continent": "Asia",
+            "population": "126,264,931",
+            "cities": ["Tokyo", "Osaka", "Nagoya", "Sapporo", "Sendai", "Hiroshima"],
+            "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Japan.png",
+            "description": "Japan is an East Asian country comprising a chain of islands between the North Pacific Ocean and the Sea of Japan, at the eastern coast off the Asian Korean Peninsula."
+        },
+        {
+            "id": 11,
+            "country": "United Kingdom",
+            "capital": "London",
+            "continent": "Europe",
+            "population": "64,430,428",
+            "cities": ["London", "Edinburgh", "Cardiff", "Manchester", "Leeds", "Birmingham"],
+            "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-United-Kingdom.png",
+            "description": "The United Kingdom (UK) is arguably Europe's most influential country. In simple terms, it's the union of the individual countries of England, Scotland and Wales, collectively called Great Britain."
+        },
+        {
+            "id": 12,
+            "country": "United States",
+            "capital": "Washington",
+            "continent": "North America",
+            "population": "323,995,528",
+            "cities": ["Washington", "Los Angeles", "Chicago", "Miami", "Philadelphia", "Houston"],
+            "flag": "https://www.countries-ofthe-world.com/flags-normal/flag-of-United-States-of-America.png",
+            "description": "The USA is a significant leader in the fields of agriculture, education, energy, health care, high-tech, service industries, space exploration, and manufacturing."
+        }
+    ]
+}
+
