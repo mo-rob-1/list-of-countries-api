@@ -7,7 +7,7 @@
             "continent": "Oceania",
             "population": "25,499,884",
             "cities": ["Canberra", "Melbourne", "Sydney", "Brisbane", "Adelaide", "Perth"],
-            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/800px-Flag_of_Australia.svg.png",
             "description": "Australia is the largest island and the smallest continent."
         },
         {
@@ -17,7 +17,7 @@
             "continent": "South America",
             "population": "43,886,748",
             "cities": ["Buenos Aires", "Córdoba", "Rosario", "Mendoza", "San Miguel de Tucumán", "La Plata"],
-            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.svg.png",
             "description": "Argentina is the 8th largest country in the world and the 2nd largest country in South America."
         },
         {
@@ -27,7 +27,7 @@
             "continent": "Asia",
             "population": "156,186,882",
             "cities": ["Dhaka", "Chittagong", "Sylhet", "Bogra", "Comilla", "Khulna"],
-            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",
             "description": "Bangladesh is a riverine South Asian country. It is situated both in the Northern and Eastern hemispheres of the Earth."
         },
         {
@@ -37,7 +37,7 @@
             "continent": "South America",
             "population": "205,823,665",
             "cities": ["Brasilia", "Rio de Janeiro", "São Paulo", "Belo Horizonte", "Pôrto Alegre", "Recife"],
-            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/800px-Flag_of_Brazil.svg.png",
             "description": "Covering an area of 8.5 million sq.km, Brazil is the world's 5th largest country."
         },
         {
@@ -47,7 +47,7 @@
             "continent": "North America",
             "population": "37,589,262",
             "cities": ["Ottawa", "Toronto", "Montréal", "Vancouver", "Calgary", "Edmonton"],
-            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/800px-Flag_of_Canada_%28Pantone%29.svg.png",
             "description": "Canada is the largest country in North America."
         },
         {
@@ -57,7 +57,7 @@
             "continent": "Europe",
             "population": "5,818,553",
             "cities": ["Copenhagen", "Århus", "Odense", "Aalborg", "Frederiksberg", "Esbjerg"],
-            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/800px-Flag_of_Denmark.svg.png",
             "description": "Denmark is a country located in north central Europe and is the southernmost of the Scandinavian countries."
         },
         {
@@ -67,7 +67,7 @@
             "continent": "Africa",
             "population": "5,818,553",
             "cities": ["Cairo", "Alexandria", "Bur Sa'id", "As-Suways", "Al-Mansurah", "Tanta"],
-            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png",
             "description": "Egypt is largely covered by desert with the Nile River running south to north through the middle of the eastern half of the country to drain into the Mediterranean Sea."
         },
         {
@@ -77,7 +77,7 @@
             "continent": "Europe",
             "population": "67,059,887",
             "cities": ["Paris", "Lyon", "Marseille", "Lille", "Toulouse", "Bordeaux"],
-            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png",
             "description": "Denmark is a country located in north central Europe and is the southernmost of the Scandinavian countries."
         },
         {
@@ -87,7 +87,7 @@
             "continent": "Europe",
             "population": "67,059,887",
             "cities": ["Berlin", "Hamburg", "Munich", "Duesseldorf", "Frankfurt", "Stuttgart"],
-            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png",
             "description": "Germany is located in central Europe. It is positioned both in the Northern and Eastern hemispheres of the Earth."
         },
         {
@@ -97,7 +97,7 @@
             "continent": "Africa",
             "population": "30,417,856",
             "cities": ["Accra", "Kumasi", "Sekondi Takoradi", "Tamale"],
-            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/800px-Flag_of_Ghana.svg.png",
             "description": "Ghana is a West African country with a coastline on the Gulf of Guinea and occupies a total area of 239,567 sq. km."
         },
         {
@@ -107,7 +107,7 @@
             "continent": "Asia",
             "population": "126,264,931",
             "cities": ["Tokyo", "Osaka", "Nagoya", "Sapporo", "Sendai", "Hiroshima"],
-            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/800px-Flag_of_Japan.svg.png",
             "description": "Japan is an East Asian country comprising a chain of islands between the North Pacific Ocean and the Sea of Japan, at the eastern coast off the Asian Korean Peninsula."
         },
         {
@@ -117,7 +117,7 @@
             "continent": "Europe",
             "population": "64,430,428",
             "cities": ["London", "Edinburgh", "Cardiff", "Manchester", "Leeds", "Birmingham"],
-            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/800px-Flag_of_the_United_Kingdom.svg.png",
             "description": "The United Kingdom (UK) is arguably Europe's most influential country. In simple terms, it's the union of the individual countries of England, Scotland and Wales, collectively called Great Britain."
         },
         {
@@ -126,8 +126,8 @@
             "capital": "Washington",
             "continent": "North America",
             "population": "323,995,528",
-            "cities": ["Washington", "Los Angeles", "Chicago", "Miami", "Philadelphia", "Houston"],
-            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png",
+            "cities": ["Washington", "Los Angeles", "New York City", "Miami", "Chicago", "Houston"],
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/800px-Flag_of_the_United_States.svg.png",
             "description": "The USA is a significant leader in the fields of agriculture, education, energy, health care, high-tech, service industries, space exploration, and manufacturing."
         },
         {
@@ -137,7 +137,7 @@
             "continent": "Africa",
             "population": "14,645,468",
             "cities": ["Harare", "Bulawayo", "Chitungwiza"],
-            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/800px-Flag_of_Zimbabwe.svg.png",
             "description": "Zimbabwe is a southern African landlocked nation. It is located in the Southern and Eastern Hemisphere regions of the world."
         }
     ]
